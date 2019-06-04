@@ -1,4 +1,7 @@
 # hapi-bell-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/thebinarypenguin/hapi-bell-example.svg)](https://greenkeeper.io/)
+
 Example usage of the bell plugin for hapi.js
 
 ## Registering the App with GitHub
